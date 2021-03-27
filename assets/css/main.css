@@ -116,6 +116,12 @@ input, select, textarea {
 
 /* Type */
 
+	.crediting {
+		position: absolute;
+		bottom: 8px;
+		left: 16px;
+	}
+
 	html {
 		font-size: 18pt;
 	}
