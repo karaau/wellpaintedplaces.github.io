@@ -4894,7 +4894,6 @@ input, select, textarea {
 			-ms-flex-shrink: 0;
 			flex-shrink: 0;
 			width: 35%;
-			min-width: 25rem;
 			border-radius: 0;
 		}
 
