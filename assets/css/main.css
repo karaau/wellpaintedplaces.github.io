@@ -116,12 +116,6 @@ input, select, textarea {
 
 /* Type */
 
-	.crediting {
-		position: absolute;
-		bottom: 8px;
-		left: 16px;
-	}
-
 	html {
 		font-size: 18pt;
 	}
@@ -200,6 +194,10 @@ input, select, textarea {
 		
 		p.essay {
 			text-align: justify;
+		}
+		
+		p.crediting {
+			font-size: 12px;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
